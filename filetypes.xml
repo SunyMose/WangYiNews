@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="test" type="Native" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="index" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
